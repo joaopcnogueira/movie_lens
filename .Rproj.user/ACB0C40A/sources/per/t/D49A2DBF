@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573605560007.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3497027558",
+    "id" : "D49A2DBF",
+    "lastKnownWriteTime" : 1573606687,
+    "last_content_update" : 1573606687377,
+    "path" : "C:/Users/joaop/Desktop/movie_lens/sparklyr_solved.R",
+    "project_path" : "sparklyr_solved.R",
+    "properties" : {
+        "cursorPosition" : "48,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "34",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
